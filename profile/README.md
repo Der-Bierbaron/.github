@@ -1,7 +1,7 @@
 # Willkommen bei Der Bierbaron! 🍻💧
 
 <p align="center">
-  <img src="https://der-bierbaron.de/pic/logo-favicon.png" alt="Der Bierbaron Logo" width="300"/>
+  <img src="https://der-bierbaron.de/pic/logo.png" alt="Der Bierbaron Logo" width="300"/>
 </p>
 
 **Kurzfassung:** Eine Anwendung, die es ermöglicht, mit einer Waage den aktuellen Stand deines Glases in VRChat zu übertragen und zu visualisieren. Dein digitaler Trink-Kumpel für lange VR-Nächte!
@@ -19,7 +19,7 @@ Schluss mit trockenen Kehlen und Kopfschmerzen nach langen Sessions. Der Bierbar
 Der Bierbaron ist eine innovative Anwendung (und optional ein dazugehöriges Hardware-Gadget), die speziell für VRChat-Enthusiasten entwickelt wurde.
 So funktioniert's im Kern:
 
-1.  ⚖️ Eine Waage (eine handelsübliche digitale Küchenwaage oder unser spezielles Bierbaron-Gadget) misst das Gewicht deines Trinkglases.
+1.  ⚖️ Eine Waage (unser spezielles Bierbaron-Gadget) misst das Gewicht deines Trinkglases.
 2.  💻 Eine Software auf deinem PC liest diese Gewichtsdaten aus.
 3.  🚀 Die Software sendet den aktuellen Füllstand deines Glases via OSC an VRChat.
 4.  🕶️ In VRChat wird dieser Füllstand visualisiert – sei es als Anzeige über deinem Avatar, als interaktives Objekt in deiner Welt oder auf andere kreative Weise!
@@ -29,19 +29,16 @@ So siehst du (und vielleicht auch deine Freunde) immer, wann es Zeit für den n�
 ## ✨ Kernfunktionen
 
 *   **Echtzeit-Füllstandsanzeige:** Sieh direkt in VRChat, wie viel noch in deinem Glas ist.
-*   **Hardware-Agnostisch (Software):** Nutze eine vorhandene digitale Waage oder baue/kaufe das optionale Bierbaron-Gadget.
 *   **VRChat-Integration:** Nahtlose Übertragung der Daten in deine VRChat-Instanz.
 *   **Anpassbare Visualisierung:** (Zukünftig) Verschiedene Möglichkeiten, den Füllstand darzustellen.
-*   **Open Source:** Wir lieben Open Source und laden dich ein, mitzumachen und das Projekt zu verbessern!
 
 ## 📂 Unsere Projekte / Repositories
 
 Hier findest du die verschiedenen Komponenten des Bierbaron-Projekts:
 
-*   ➡️ **[Der Bierbaron - Software](https://github.com/Der-Bierbaron/bier-baron-app):** Die Hauptanwendung, die die Waagendaten liest und an VRChat sendet.
-*   ➡️ **[Der Bierbaron - Hardware/Gadget](https://github.com/Der-Bierbaron/bier-baron-app):** (Optional) Bauanleitungen, Schaltpläne, Firmware und 3D-Modelle für das dedizierte Waagen-Gadget.
-*   ➡️ **[Der Bierbaron - VRChat Assets](LINK_ZUM_VRC_ASSETS_REPO_HIER_EINFUEGEN):** (Optional) VRChat Prefabs, Shader oder Avatarkomponenten zur Visualisierung des Füllstands.
-*   ➡️ **[Der Bierbaron - Dokumentation](LINK_ZUR_DOKU_HIER_EINFUEGEN):** (Optional) Zentrale Anlaufstelle für Anleitungen und Dokumentation.
+*   ➡️ **[Der Bierbaron - Software](https://der-bierbaron.de):** Die Hauptanwendung, die die Waagendaten liest und an VRChat sendet.
+*   ➡️ **[Der Bierbaron - Hardware/Gadget](https://guide.der-bierbaron.de):** Bauanleitungen, Schaltpläne, Firmware und 3D-Modelle für das dedizierte Waagen-Gadget.
+*   ➡️ **[Der Bierbaron - VRChat Assets](https://builds.der-bierbaron.de/latest/3d-geh%C3%A4use.zip):** (Optional) VRChat Prefabs, Shader oder Avatarkomponenten zur Visualisierung des Füllstands.
 
 ## 🚀 Wie du mitmachen kannst
 
